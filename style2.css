@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin-top: 100px;
+    padding: 0;
+    background: #CADCFC;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2 {
+    color: #00246B
+}
+h2 {
+    margin-top: 20px;
+}
+ul, li {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 10px;
+}
